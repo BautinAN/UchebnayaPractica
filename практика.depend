@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1623755624 source:d:\МЭИ\2 семестр\Учебная практика\САМА РАБОТА\практика\main.cpp
+	<iostream>
+	<locale.h>
+	"plant.h"
+	<cmath>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<vector>
+
+1621293016 d:\МЭИ\2 семестр\Учебная практика\САМА РАБОТА\практика\plant.h
+
+1621293102 source:d:\МЭИ\2 семестр\Учебная практика\САМА РАБОТА\практика\plant.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"plant.h"
+
